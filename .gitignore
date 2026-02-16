@@ -1,2 +1,4 @@
-/selenium/target/
 /selenium/.idea/
+/selenium/.idea/target/
+/playwright_java/.idea/
+/playwright_java/target/
